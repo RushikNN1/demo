@@ -1,0 +1,6 @@
+{
+  "name": "Rushik.EXE — Human Software v0.18 (AI Portfolio)",
+  "description": "Interactive AI and Human Software portfolio featuring Sattva Saara Packaging Design gallery, responsive multi-screen layout, and package inspection system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
